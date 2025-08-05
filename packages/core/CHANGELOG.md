@@ -1,5 +1,17 @@
 # @platejs/core
 
+## 49.2.6
+
+### Patch Changes
+
+- [#4542](https://github.com/udecode/plate/pull/4542) by [@zbeyens](https://github.com/zbeyens) – Remove `inject.nodeProps` from default element, preventing `Error: Rendered more hooks than during the previous render.`.
+
+## 49.2.5
+
+### Patch Changes
+
+- [#4540](https://github.com/udecode/plate/pull/4540) by [@zbeyens](https://github.com/zbeyens) – Fix: `Error: Rendered more hooks than during the previous render.` when updating the block type.
+
 ## 49.2.4
 
 ### Patch Changes
